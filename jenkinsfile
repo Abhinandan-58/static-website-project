@@ -4,7 +4,7 @@ pipeline {
 
   environment {
     DEPLOY_USER        = 'ubuntu'
-    DEPLOY_HOST        = '54.212.22.41'
+    DEPLOY_HOST        = '34.219.51.59'
     DEPLOY_PATH        = '/var/www/html'
     SSH_CREDENTIALS_ID = 'web-key'
     REPO_URL           = 'https://github.com/Abhinandan-58/static-website-project.git'
